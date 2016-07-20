@@ -1,2 +1,3 @@
-# android-funfacts
-Android app de ejemplo sobre datos curiosos
+# Android Fun Facts
+
+Example Android app from Treehouse online course
